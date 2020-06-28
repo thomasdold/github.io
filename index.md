@@ -14,3 +14,5 @@ warum also das ganze bla bla bla
 * wohnt bei Meister Eder
 
 > Tri tra trullala der Eder der ist wieder da 
+
+<img src="https://lirp-cdn.multiscreensite.com/08191d67/dms3rep/multi/opt/Pumuckl_Schwert-1200w.png"/> 
